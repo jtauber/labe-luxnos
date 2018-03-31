@@ -24,7 +24,7 @@ It is possible for people who don't know the target language to contribute to st
 * research existing engines / own implementation
 * developing ideas for premise and story
 
-Across all these two key milestones come to mind:
+Across all these, two key milestones come to mind:
 
 * the simplest playable prototype that supports a handful of locations and a handful of objects you must interact with
 * a fully playable demo with maybe an hour of gameplay—potentially with the feeling its the start of a larger game
