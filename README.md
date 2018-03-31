@@ -10,6 +10,4 @@ I've been toying with the idea of games for language learning for a while (by wh
 
 At the vocabulary research colloquium at AAAL 2018 in Chicago, there was a talk on vocabulary acquisition through games versus television and movies and, even though the talk was about exactly the kind of game that would be impossible for me to do, an idea hit me like a lightning bolt as I sat in the session: doing an old-school text adventure.
 
-
-
-
+Text adventure games (also known as interactive fiction) are much easier to implement (technically—I'm not trying to take anything about from the skill of actually creating a compelling storyline). There are plenty of existing engines although it wouldn't be difficult to develop one's own. Because the entire interaction with the world is mediated through language (not clicking on pictures) it requires productive language use. Vocabulary is easy to control and the descriptive language can be as simple and formulaic or as rich as needed depending on the level of the player. There's also an opportunity to do a bit of content-based learning as well, via the setting.
