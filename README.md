@@ -11,3 +11,7 @@ Now see <https://github.com/jtauber/labe-luxnos/wiki/Background>.
 ## Roadmap
 
 Now see <https://github.com/jtauber/labe-luxnos/wiki/Roadmap>.
+
+## Issues
+
+See <https://github.com/jtauber/labe-luxnos/issues>.
